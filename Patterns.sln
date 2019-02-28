@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{5B2B1097-6740-4ECB-867D-A60E0FED6282}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{7B037627-449A-45E5-9858-18F1572C93BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{5B2B1097-6740-4ECB-867D-A60E0FED6282}.Release|x64.Build.0 = Release|Any CPU
 		{5B2B1097-6740-4ECB-867D-A60E0FED6282}.Release|x86.ActiveCfg = Release|Any CPU
 		{5B2B1097-6740-4ECB-867D-A60E0FED6282}.Release|x86.Build.0 = Release|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Debug|x64.Build.0 = Debug|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Debug|x86.Build.0 = Debug|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Release|x64.ActiveCfg = Release|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Release|x64.Build.0 = Release|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Release|x86.ActiveCfg = Release|Any CPU
+		{7B037627-449A-45E5-9858-18F1572C93BA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
