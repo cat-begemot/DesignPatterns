@@ -1,0 +1,11 @@
+C:\Users\cat-b\source\repos\Test\Sync\bin\Debug\netcoreapp2.1\Sync.deps.json
+C:\Users\cat-b\source\repos\Test\Sync\bin\Debug\netcoreapp2.1\Sync.runtimeconfig.json
+C:\Users\cat-b\source\repos\Test\Sync\bin\Debug\netcoreapp2.1\Sync.runtimeconfig.dev.json
+C:\Users\cat-b\source\repos\Test\Sync\bin\Debug\netcoreapp2.1\Sync.dll
+C:\Users\cat-b\source\repos\Test\Sync\bin\Debug\netcoreapp2.1\Sync.pdb
+C:\Users\cat-b\source\repos\Test\Sync\obj\Debug\netcoreapp2.1\Sync.csprojAssemblyReference.cache
+C:\Users\cat-b\source\repos\Test\Sync\obj\Debug\netcoreapp2.1\Sync.csproj.CoreCompileInputs.cache
+C:\Users\cat-b\source\repos\Test\Sync\obj\Debug\netcoreapp2.1\Sync.AssemblyInfoInputs.cache
+C:\Users\cat-b\source\repos\Test\Sync\obj\Debug\netcoreapp2.1\Sync.AssemblyInfo.cs
+C:\Users\cat-b\source\repos\Test\Sync\obj\Debug\netcoreapp2.1\Sync.dll
+C:\Users\cat-b\source\repos\Test\Sync\obj\Debug\netcoreapp2.1\Sync.pdb
