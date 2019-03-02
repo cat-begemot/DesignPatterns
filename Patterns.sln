@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{0F49B86D-BA38-405C-88C5-88B1D5D3BFC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{0F49B86D-BA38-405C-88C5-88B1D5D3BFC4}.Release|x64.Build.0 = Release|Any CPU
 		{0F49B86D-BA38-405C-88C5-88B1D5D3BFC4}.Release|x86.ActiveCfg = Release|Any CPU
 		{0F49B86D-BA38-405C-88C5-88B1D5D3BFC4}.Release|x86.Build.0 = Release|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Debug|x64.Build.0 = Debug|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Debug|x86.Build.0 = Debug|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Release|x64.ActiveCfg = Release|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Release|x64.Build.0 = Release|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Release|x86.ActiveCfg = Release|Any CPU
+		{26DA17E7-B46E-405D-BC23-CFEFE0C39DEC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
