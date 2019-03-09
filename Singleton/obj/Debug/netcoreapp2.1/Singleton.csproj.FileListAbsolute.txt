@@ -8,3 +8,4 @@ C:\Users\cat-b\source\repos\Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton
 C:\Users\cat-b\source\repos\Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton.AssemblyInfo.cs
 C:\Users\cat-b\source\repos\Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton.dll
 C:\Users\cat-b\source\repos\Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton.pdb
+C:\Users\cat-b\source\repos\Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton.csprojAssemblyReference.cache
