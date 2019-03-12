@@ -88,7 +88,7 @@ namespace Command
 			public void DoSomethingImportant()
 			{
 				Console.WriteLine("Invoker: Does anybody want something done before I begin?");
-				if (onStart is ICommand)
+				if (onStart is IC ommand)
 					onStart.Execute();
 
 				Console.WriteLine("Invoker: ...doing something really important...");
