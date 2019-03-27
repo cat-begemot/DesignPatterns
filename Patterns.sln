@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{83E04950-A4BE-4FFE-976F-BE92F8FC8ABD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{11CBFF63-C0B7-457A-8F59-BCBDEC4EE814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediator.csproj", "{11CBFF63-C0B7-457A-8F59-BCBDEC4EE814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{318AF1B2-D587-45AB-A8A6-24F0B6D3D13E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento", "Memento\Memento.csproj", "{318AF1B2-D587-45AB-A8A6-24F0B6D3D13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{62C577BE-B165-4038-BD9C-27A5DCFA49C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -251,6 +253,18 @@ Global
 		{318AF1B2-D587-45AB-A8A6-24F0B6D3D13E}.Release|x64.Build.0 = Release|Any CPU
 		{318AF1B2-D587-45AB-A8A6-24F0B6D3D13E}.Release|x86.ActiveCfg = Release|Any CPU
 		{318AF1B2-D587-45AB-A8A6-24F0B6D3D13E}.Release|x86.Build.0 = Release|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Debug|x64.Build.0 = Debug|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Debug|x86.Build.0 = Debug|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Release|x64.ActiveCfg = Release|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Release|x64.Build.0 = Release|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Release|x86.ActiveCfg = Release|Any CPU
+		{62C577BE-B165-4038-BD9C-27A5DCFA49C2}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
